@@ -7,4 +7,5 @@ My name's Jon! I graduated from the University of Notre Dame in 2023 and now wor
 - `kademlia-c`. Kademlia distributed hash table protocol in C. Uses libuv for asynchronous I/O.
 - `edit`. Collaborative text editor using CRDTs and a self-hosted server. WIP, based on my `sae` project in college.
 - `cfix`. Tag-value FIX protocol parser. Uses a virtual memory trick to make a cool ring buffer (C-strings work across the end!).
+- `lr1`. LR(1) parser written in Python. Small weekend project but cool nonetheless.
 - `jontab.github.io`. Personal website and blog. Visit it at https://jta.sh.
